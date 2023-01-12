@@ -19,7 +19,7 @@ The product contains 4 key elements:
 
 Link to the app: https://dk1248-recipify-website-app-03uyve.streamlit.app/
 
-Live presentation at Le Wagon: Not yet online (to be updated)
+Live presentation at Le Wagon: https://youtu.be/pxghH8AEcXg
 
 ### Methods used
 * Deep Learning (Convolutional Neural Network trained on ~120.000 pictures of food of 251 categories)
