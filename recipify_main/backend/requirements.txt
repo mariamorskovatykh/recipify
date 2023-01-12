@@ -1,0 +1,17 @@
+pytest
+pylint
+ipdb
+jupyterlab
+notebook
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+streamlit
+requests
+uvicorn
+scikit-image
+fastapi
+python-multipart

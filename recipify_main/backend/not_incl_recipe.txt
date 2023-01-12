@@ -1,0 +1,7 @@
+categories we don't have recipes for:
+[3: 'cockle',
+ 18: 'beef tartare',
+ 125: 'galantine',
+ 170: 'takoyaki',
+ 189: 'limpet',
+ 231: 'carbonnade flamande']
