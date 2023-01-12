@@ -34,6 +34,7 @@ Our Streamlit frontend accesses the stored model data on GCP and and generates t
 
 ### Running it locally
 To run the app locally, simply download and install it. If you are on a linux and use pip, simply run "pip install -e ." (without the quote signs, and don't ignore the dot at the end) from the app folder in your terminal. Start it on streamlit by running "streamlit run app.py", and open the indicated Network URL.
+Please note that two files (`recipe.csv` and `xception_continued_save_at_17.keras`) are compressed into zip files. They are necessary for correct work of the app and needed to be unzipped before running the app.
 
 ### Data Sources
 **Food Picture Dataset:** https://www.kaggle.com/code/iambashar/food-250-inception-v3/data
