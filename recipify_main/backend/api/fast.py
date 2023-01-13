@@ -24,7 +24,6 @@ app.state.model = load_model("xception_continued_save_at_17.keras")
 #The trick is to load the model into memory on startup and store it in a global variable in app.state,
 # which is kept in memory and accessible across all routes!
 
-
 @app.post("/predict")
 async def predict(img: UploadFile = File(...)): #later: def predict(img_tensor)
     #preprocessing in frontend (turned into tensor and normalized and resized to 156*156)
