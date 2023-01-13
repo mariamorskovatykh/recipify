@@ -37,7 +37,6 @@ async def predict(img: UploadFile = File(...)): #later: def predict(img_tensor)
     prediction = prediction.T
     prediction = round(prediction.sort_values(by=0), 5)
 
-    #y_pred = np.random.uniform(0,1,251) #dummy pred
     max_class_single = np.argmax(y_pred)
     second_pred_class = np.argsort(y_pred[0])[-2]
 
