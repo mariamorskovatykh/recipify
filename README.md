@@ -25,7 +25,7 @@ Live presentation at Le Wagon: https://youtu.be/pxghH8AEcXg
 * Deep Learning (Convolutional Neural Network trained on ~120.000 pictures of food of 251 categories)
 * Data Analysis/Data Cleaning (pandas, numpy)
 * Data Visualization (exploratory data analysis and nutritional information plot with seaborn)
-* created prediction API to deploy model on cloud
+* created prediction API to deploy model on cloud (FastAPI)
 * Streamlit (building interactive web app)
 * Docker (deployment)
 
