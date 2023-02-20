@@ -12,7 +12,7 @@ Recipify uses deep learning (Convolutional Neural Network) to detect and recogni
 ### Product
 The product contains 4 key elements:
 
-  * **Dish Recognition** recognize a dish based on a picture or screenshot
+  * **Dish Recognition** - the model recognizes a dish based on a picture or screenshot
   * **Recipe** based on the recognized dish, you will get an associated recipe
   * **Nutritional Information** based on a daily recommended intake, you will see a calorie-traffic-light and a plot of other nutritional values
   * **Similar looking dishes** based on the picture/screenshot you uploaded, Recipify will recommend another similar looking dish you might also like
